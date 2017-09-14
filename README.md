@@ -8,12 +8,16 @@ Needed a project to practice React with. So I built this.
 
 ## Key Features
 
-* Month, Week, Day views
+* Month View
 ![month](./images/month.PNG)
+
+* Week View
 ![week](./images/week.PNG)
+
+* Day View
 ![day](./images/day.PNG)
 
-* Schedule new events
+* Schedule New Calls
 ![new](./images/new.PNG)
 
 ## Key Tools
