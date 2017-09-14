@@ -1,6 +1,6 @@
-# React Calendar
+# React Scheduler
 
-Online calendar
+Schedule calls online
 
 ## Project Purpose
 
@@ -9,7 +9,9 @@ Needed a project to practice React with. So I built this.
 ## Key Features
 
 * Month, Week, Day views
-![views](./images/views.PNG)
+![month](./images/month.PNG)
+![week](./images/week.PNG)
+![day](./images/day.PNG)
 
 * Schedule new events
 ![new](./images/new.PNG)
